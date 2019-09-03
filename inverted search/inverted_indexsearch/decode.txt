@@ -1,0 +1,7 @@
+word : hi present in 2 files
+word: hi present 1 times in the file file1.txt
+word: hi present 1 times in the file file2.txt
+word : hello present in 1 files
+word: hello present 1 times in the file file1.txt
+word : word present in 1 files
+word: word present 1 times in the file file2.txt
